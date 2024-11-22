@@ -31,7 +31,7 @@ namespace BasicExcerise_full.array
        
             
         }
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
          
             int n = int.Parse(Console.ReadLine());
